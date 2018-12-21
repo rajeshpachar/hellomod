@@ -2,7 +2,7 @@ package child;
 
 import (
 "fmt"
-"github.com/rajeshpachar/hellomod"
+"github.com/rajeshpachar/hellomod/hellotest"
 )
 
 func HelloChild(){
