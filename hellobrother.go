@@ -1,4 +1,5 @@
-package hellomod;
+package hellotest;
+//package hellomod;
 
 import ( "fmt"
 )
