@@ -5,6 +5,6 @@ import (
 )
 
 //SayHello function
-func SayHello() {
-	fmt.Println("Hello World")
+func SayHello(param string) {
+	fmt.Println("Hello World v2.0.1", param)
 }
